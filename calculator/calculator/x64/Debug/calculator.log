@@ -1,0 +1,3 @@
+﻿  calc.cpp
+D:\repos\calculator\calc.cpp(19,10): warning C4129: 'e': unrecognized character escape sequence
+  calculator.vcxproj -> D:\repos\calculator\x64\Debug\calculator.exe
