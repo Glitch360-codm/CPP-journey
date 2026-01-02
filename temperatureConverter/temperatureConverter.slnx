@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="temperatureConverter.vcxproj" />
+  <Project Path="temperatureConverter.vcxproj" Id="56cbd7b8-16e5-44a8-85d9-73cab5660bee" />
 </Solution>

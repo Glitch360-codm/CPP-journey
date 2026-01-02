@@ -1,5 +1,4 @@
 ﻿  main.cpp
-D:\repos\CPP-journey\temperatureConverter\main.cpp(19,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-D:\repos\CPP-journey\temperatureConverter\main.cpp(43,6): warning C4101: 'CI_result': unreferenced local variable
-D:\repos\CPP-journey\temperatureConverter\main.cpp(44,6): warning C4101: 'FI_result': unreferenced local variable
+D:\repos\CPP-journey\temperatureConverter\main.cpp(43,9): warning C4101: 'CI_result': unreferenced local variable
+D:\repos\CPP-journey\temperatureConverter\main.cpp(44,9): warning C4101: 'FI_result': unreferenced local variable
   temperatureConverter.vcxproj -> D:\repos\CPP-journey\temperatureConverter\x64\Debug\temperatureConverter.exe

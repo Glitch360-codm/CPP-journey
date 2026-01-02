@@ -13,22 +13,22 @@ void greetings() {
 
 
 void  celsiusInstance() {
-	int x;
+	double x;
 	cin >> x;
-	int CI_result;
-	CI_result = x * 1.8 + 32;
-	cout << x << "°C in farenheit is " << CI_result << "F\n\n";
+	double CI_result;
+	CI_result = (x * 1.8) + 32;
+	cout << x << "C in farenheit is " << CI_result << "F\n\n";
 
 }
 
 
 void fahrenheitInstance() {
-	int y;
+	double y;
 	cin >> y;
-	int FI_result;
-	FI_result = y - 32 * 5 / 9;
+	double FI_result;
+	FI_result = (y - 32) * 5 / 9;
 
-	cout << y << "°F in Celsius is " << FI_result << "C\n\n";
+	cout << y << "F in Celsius is " << FI_result << "C\n\n";
 }
 
 
@@ -40,8 +40,8 @@ int main()
 
 {
 	greetings();
-	int CI_result;
-	int FI_result;
+	double CI_result;
+	double FI_result;
 	 while (true){
 		 int choice;
 	cout << "ENTER  0.  to Exit\n";
