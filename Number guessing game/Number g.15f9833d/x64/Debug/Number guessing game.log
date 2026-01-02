@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\repos\CPP-journey\Number guessing game\main.cpp(19,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\repos\CPP-journey\Number guessing game\main.cpp(51,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Number guessing game.vcxproj -> D:\repos\CPP-journey\Number guessing game\x64\Debug\Number guessing game.exe
